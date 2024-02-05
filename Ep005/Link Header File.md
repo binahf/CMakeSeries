@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HNVE59ZXGFS8R5MWH5MX2QGC
-  version: v2.2
----
-
 # How to Link Header File "stats.h" from Another Folder to "main.c"
 
 To link a header file from another folder to your main C file, you can use the `#include` directive along with the relative path or by specifying the path in your project settings. Here are two approaches:
@@ -33,4 +27,4 @@ To link a header file from another folder to your main C file, you can use the `
 3. [Reddit - How to include header files in a *.c file which is an...](https://www.reddit.com/r/gnu/comments/w2sh14/how_to_include_header_files_in_a_c_file_which_is/)
 4. [Physics Forums - How to include two header files that are contained in...](https://www.physicsforums.com/threads/how-to-include-two-header-files-that-are-contained-in-the-same-folder.1017107/)
 5. [CopyProgramming - Adding a Header File in C: A Guide](https://copyprogramming.com/howto/how-to-add-a-header-file-in-c)
-6. [ITecNote - C++ – how to include header files in other src folder](https://itecnote.com/tecnote/c-how-to-include-header-files-in-other-src-folder/)
+6. [ITecNote - C++ – how to include header files in other src folder](https://itecnote.com/tecnote/c-how-to-include-header-files-in-other-src-folder/)
