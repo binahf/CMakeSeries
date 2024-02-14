@@ -18,6 +18,8 @@ message("After function call:")
 message("GLOBAL_VAR1: ${GLOBAL_VAR1}")
 message("GLOBAL_VAR2: ${GLOBAL_VAR2}")
 
+#------------------------------------
+
 # A function that increment a variable 
 
 # function(Increment VAR)
